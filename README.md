@@ -3,7 +3,7 @@
 ![](images/hotel_revenue_dashboard.png)
 
 ## Project Overview
-This dashboard was created to provide insights into hotel booking trends over a year 2025 across different site, demographic characteristics of guests and revenue generated
+This dashboard was created to provide insights into hotel booking trends over a year 2023 across different site, demographic characteristics of guests and revenue generated
 
 ## Objectives
 To inform better resource planning, marketing strategies, in order to increase customer satisfaction  and optimize renvenue
