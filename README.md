@@ -1,6 +1,6 @@
 ## PowerBI-Hotel-Revenue-dashboard preview
 
-!images/hotel_revenue_dashboard.png
+!(images/hotel_revenue_dashboard.png)
 
 ## Project Overview
 This dashboard providing insights into booking trends oer a year across different site, demographic characteristics of guests and revenue generated
